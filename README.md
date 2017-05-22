@@ -4,13 +4,13 @@ The system to be created will need to allow users to book space in the ideas hub
 
 The system will need the following features:nn
 
-*User Login 
-*Booking management
+* User Login 
+* Booking management
   *Add booking
   *Delete booking
   *View current bookings
-*Calendar view to show the bookings of the room
-*The ability to specify whether the booking is private or a single desk
+* Calendar view to show the bookings of the room
+* The ability to specify whether the booking is private or a single desk
 
 It has been decided that the system will be created as a responsive website. 
 
